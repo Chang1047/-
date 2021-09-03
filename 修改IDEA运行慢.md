@@ -2,7 +2,7 @@
 
 在IDEA安装目录中找到<font color='red'>idea64.exe.vmoptions</font>
 
-原本内容为
+原本内容为:
 
 ```java
 -Xms128m
@@ -22,7 +22,7 @@
 
 ```
 
-## <font color='red'>修改为</font>
+## <font color='red'>修改为</font>:
 
 ```java
 server
